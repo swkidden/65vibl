@@ -1,0 +1,15 @@
+set(CMAKE_HOST_SYSTEM "MINGW64_NT-10.0-22621-3.3.5-341.x86_64")
+set(CMAKE_HOST_SYSTEM_NAME "MINGW64_NT-10.0-22621")
+set(CMAKE_HOST_SYSTEM_VERSION "3.3.5-341.x86_64")
+set(CMAKE_HOST_SYSTEM_PROCESSOR "unknown")
+
+include("/d/program/qmk/vibl/bootloader/toolchain/gcc.cmake")
+
+set(CMAKE_SYSTEM "Generic")
+set(CMAKE_SYSTEM_NAME "Generic")
+set(CMAKE_SYSTEM_VERSION "")
+set(CMAKE_SYSTEM_PROCESSOR "arm")
+
+set(CMAKE_CROSSCOMPILING "1")
+
+set(CMAKE_SYSTEM_LOADED 1)

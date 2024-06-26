@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+2d1be1a625a96e226bc0f80e97a51605 CMakeFiles/bootloader-SR_STUDIO.bin

@@ -1,0 +1,4 @@
+/d/program/qmk/vibl/bootloader/build/CMakeFiles/SR_STUDIO.elf.dir
+/d/program/qmk/vibl/bootloader/build/CMakeFiles/bootloader-SR_STUDIO.bin.dir
+/d/program/qmk/vibl/bootloader/build/CMakeFiles/edit_cache.dir
+/d/program/qmk/vibl/bootloader/build/CMakeFiles/rebuild_cache.dir
